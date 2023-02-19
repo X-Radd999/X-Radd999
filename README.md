@@ -1,6 +1,6 @@
 - 👋 Hi, I’m norr1x
 - 👀 I’m interested in ...Blockchain
-- 🌱 I’m currently learning ...Rust⚙️
+- 🌱 I’m currently learning ...JavaScript☕
 - 📫 How to reach me ... DM me on Insta @x_radd_2099
 
 <!---
